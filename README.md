@@ -11,9 +11,13 @@ Pour l'utiliser sur un terminal il suffit de taper
 
 #commandes
 $pkg install python
+
 $pkg install git
+
 $git clone https://github.com/christbowel/securepassword
+
 $cd securepassword
+
 $python securepassword.py
 
 Et là le script se lancera automatiquement 
@@ -22,3 +26,5 @@ Cette version ci est la version "1.1"
 
 © copyright
 PayPal : christbowel6@gmail.com
+
+#christbowel 
