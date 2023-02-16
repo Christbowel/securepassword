@@ -23,11 +23,11 @@ Pour l'utiliser sur un terminal il suffit de taper
 
 Et là le script se lancera automatiquement 
 Cette version ci est la version "1.1"
-#securepassword_1.1 
+``securepassword_1.1``
 
 # Website
 
 https://christbowel.ml
 
-© copyright ChristBowel ( CTF player| Bug hunter 🔥)
+© copyright ChristBowel ( CTF player | Bug hunter 🔥)
 
